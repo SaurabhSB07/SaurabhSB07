@@ -40,7 +40,7 @@ A complete authentication backend built with Django REST Framework featuring:
 - Custom user model with roles & permissions  
 - Secure login, registration
 
-🔗 [Auth API Repository](https://github.com/SaurabhSB07/auth-api)
+🔗 [Auth API Repository](https://github.com/SaurabhSB07/django-auth-restapi)
 
 ### 🛒 E-Commerce API
 Full-featured e-commerce backend with:
@@ -56,7 +56,7 @@ Backend for AI-powered chat application:
 - JWT-based authentication & secure endpoints  
 - Scalable API architecture for AI interactions  
 
-🔗 [AI Chat API Repository](https://github.com/SaurabhSB07/aichat_api)
+🔗 [AI Chat API Repository](https://github.com/SaurabhSB07/chat-api)
 
 ---
 
