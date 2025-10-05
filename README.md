@@ -56,7 +56,7 @@ Backend for AI-powered chat application:
 - JWT-based authentication & secure endpoints  
 - Scalable API architecture for AI interactions  
 
-🔗 [AI Chat API Repository](https://github.com/SaurabhSB07/chat-api)
+🔗 [AI Chat API Repository](https://github.com/SaurabhSB07/chat_api)
 
 ---
 
