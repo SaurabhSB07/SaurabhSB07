@@ -18,12 +18,11 @@ I enjoy solving real-world problems, designing authentication flows, and optimiz
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 
 ### 🗄️ Databases & Storage
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 
 ### 🧰 Tools & Utilities
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -67,13 +66,6 @@ Backend for AI-powered chat application:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSB07&layout=compact&theme=radical)](https://github.com/SaurabhSB07)  
 
 ---
-
-## 🏆 Achievements & Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SaurabhSB07&theme=onedark&no-frame=true&margin-w=4)  
-
----
-
 ## 🚀 Currently Learning
 
 - Advanced **permissions & throttling strategies** in DRF  
